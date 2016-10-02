@@ -1,0 +1,8 @@
+
+
+State of information:
+
+  Students
+  Assignment groups
+  Assignments
+  Grades
